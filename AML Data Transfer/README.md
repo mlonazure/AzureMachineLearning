@@ -17,9 +17,9 @@ A sample for moving data from Azure Blob Storage to Azure SQL Database using an 
 
 ## Major Steps
 
-**Step 1** [01. Transfer Data Configuration.ipynb](http://www.microsoft.com) Cofigure necessary components to perform a Data Transfer in the next notebook
+**Step 1** [01. Transfer Data Configuration.ipynb](https://github.com/mlonazure/AzureMachineLearning/blob/master/AML%20Data%20Transfer/01.Transfer%20Data%20Configuration.ipynb) Cofigure necessary components to perform a Data Transfer in the next notebook
 
-**Step 2** [02. Transfer Data.ipynb](http://www.microsoft.com) Transfer Data from Blob Storage to Azure SQL Database using an existing Azure Data Factory
+**Step 2** [02. Transfer Data.ipynb](https://github.com/mlonazure/AzureMachineLearning/blob/master/AML%20Data%20Transfer/02.Transfer%20Data.ipynb) Transfer Data from Blob Storage to Azure SQL Database using an existing Azure Data Factory
 
 ### References Section
 
