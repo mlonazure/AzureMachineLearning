@@ -17,7 +17,7 @@ A sample for moving data from Azure Blob Storage to Azure SQL Database using an 
 
 ## Major Steps
 
-**Step 1** [01. Transfer Data Configuration.ipynb](https://github.com/mlonazure/AzureMachineLearning/blob/master/AML%20Data%20Transfer/01.Transfer%20Data%20Configuration.ipynb) Cofigure necessary components to perform a Data Transfer in the next notebook
+**Step 1** [01. Transfer Data Configuration.ipynb](https://github.com/mlonazure/AzureMachineLearning/blob/master/AML%20Data%20Transfer/01.Transfer%20Data%20Configuration.ipynb) Configure necessary components to perform a Data Transfer in the next notebook
 
 **Step 2** [02. Transfer Data.ipynb](https://github.com/mlonazure/AzureMachineLearning/blob/master/AML%20Data%20Transfer/02.Transfer%20Data.ipynb) Transfer Data from Blob Storage to Azure SQL Database using an existing Azure Data Factory
 
@@ -39,7 +39,7 @@ This classe allows you to register a number of Azure services to be used in your
 - Databricks File System
 - Azure Database for MySQL
 
-[Experiment Class](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.experiment%28class%29?view=azure-ml-py) Experimenation Tracking: Creates an Experiment which has Runs underneath it.
+[Experiment Class](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.experiment%28class%29?view=azure-ml-py) Experimentation Tracking: Creates an Experiment which has Runs underneath it.
 
 [DataFactoryCompute.attach_configuration](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.datafactory.datafactorycompute?view=azure-ml-py#attach-configuration-resource-group-none--factory-name-none--resource-id-none-) Provides configuration for an existing Azrue Data Factory
 
