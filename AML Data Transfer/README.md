@@ -1,5 +1,7 @@
 ## Azure Machine Learning service - Transfer Data withing a Pipeline using DataTransferStep
 
+![TransferDataStepImage](https://mlonazure.com/wp-content/uploads/2020/05/AML-Transfer-Data-1.jpg)
+
 A sample for moving data from Azure Blob Storage to Azure SQL Database using an Existing Azure Data Factory. For a general walkthrough, see: [AML Product Team GitHub - MachineLearningNotebooks/aml-pipelines-data-transfer](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-data-transfer.ipynb)
 
 ### Data transfer currently supports following storage types:
