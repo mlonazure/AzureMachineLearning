@@ -6,7 +6,7 @@ A sample for moving data from Azure Blob Storage to Azure SQL Database using an 
 
 ### Data transfer currently supports following storage types:
 
-| Data store | Supported as a source | Supported as a sink |
+| Data store | Supported as a source | Supported as a destination |
 | --- | --- | --- |
 | Azure Blob Storage | Yes | Yes |
 | Azure Data Lake Storage Gen 1 | Yes | Yes |
